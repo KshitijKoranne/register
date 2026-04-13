@@ -5,6 +5,9 @@
     "email": "kjrlabs9@gmail.com"
   },
   "records": {
-    "CNAME": "kkshitij.vercel.app"
+    "CNAME": "kkshitij.vercel.app",
+    "TXT": [
+      "vc-domain-verify=kkshitij.is-a.dev,6cc558172170999e91d9"
+    ]
   }
 }
